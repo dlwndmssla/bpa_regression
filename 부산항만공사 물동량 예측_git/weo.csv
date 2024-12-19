@@ -1,0 +1,45 @@
+col,explanation
+NGDP_R,"���� GDP(�����ѻ���, Gross Domestic Product) ���� ��ġ"
+NGDP_RPCH,���� GDP�� ���� ���� �����(%)
+NGDP,���� GDP(�޷� ����)
+NGDPD,���� GDP (Domestic ������ �޷�ȭ)
+PPPGDP,"���ŷ���(Purchasing Power Parity, PPP)�� ����� GDP"
+NGDP_D,GDP ���÷����� (GDP Deflator)
+NGDPRPC,1�δ� ���� GDP
+NGDPRPPPPC,PPP ���� 1�δ� ���� GDP
+NGDPPC,1�δ� ���� GDP
+NGDPDPC,�޷� ���� 1�δ� ���� GDP
+PPPPC,PPP ���� 1�δ� GDP
+NGAP_NPGDP,���� �ڻ���� (Net Worth/GDP)�� ���õ� ��ǥ(NULL)
+PPPSH,PPP ������ ������ ��ǥ
+PPPEX,PPP ���� ���� ��ǥ
+NID_NGDP,�� ���� ����(Net Interest Differential)/GDP ����
+NGSD_NGDP,�� ���� ����(Net Government Saving)/GDP ����
+PCPI,�Һ��� �������� (Consumer Price Index)
+PCPIPCH,�Һ��� �������� ���� ������
+PCPIE,���� �Һ��� ��������
+PCPIEPCH,���� �Һ��� �������� ���� ������
+TM_RPCH,���� ���� �����
+TMG_RPCH,�ѱ��� ���� �����
+TX_RPCH,���� ���� ���� �����
+TXG_RPCH,�Ѽ��� ���� ���� �����
+LUR,�Ǿ��� (Unemployment Rate)(NULL)
+LE,������ (Life Expectancy)(NULL)
+LP,�뵿���꼺 (Labor Productivity)
+GGR,�� ���� ���� (Gross Government Revenue)
+GGR_NGDP,GDP ��� �� ���� ���� ����
+GGX,�� ���� ���� (Gross Government Expenditure)
+GGX_NGDP,GDP ��� �� ���� ���� ����
+GGXCNL,�� ���� ����(Net Lending) �Ǵ� �� ����
+GGXCNL_NGDP,GDP ��� �� ���� ���� ����
+GGSB,���� �������(Government Budget Surplus)
+GGSB_NPGDP,GDP ��� ���� ������� ����(NULL)
+GGXONLB,����� �ι��� �� ���� ����(NULL)
+GGXONLB_NGDP,GDP ��� ����� �ι� ���� ����(NULL)
+GGXWDN,���� �� ������ ���ݾ�(NULL)
+GGXWDN_NGDP,GDP ��� ���� �� ������ ���ݾ� ����(NULL)
+GGXWDG,�� ���� ���� �ݾ�
+GGXWDG_NGDP,GDP ��� �� ���� ���� �ݾ�
+NGDP_FY,��������(Fiscal Year) ���� GDP
+BCA,������(Balance of Current Account)
+BCA_NGDPD,���� GDP ��� ������ ����
